@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hopsancomponentlibrary version="0.3">
+  <id>0f403ad8-3838-49e1-98c9-159ef4c3ce44</id>
+  <name>Spectra</name>
+  <lib debug_ext="_d">Spectra</lib>
+  <buildflags>
+
+
+  </buildflags>
+
+
+
+  <source>Spectra.cpp</source>
+
+
+  <component>spectraBaseSpectrum.hpp</component>
+
+  <componentxml>spectraBaseSpectrum.xml</componentxml>
+
+
+</hopsancomponentlibrary>
