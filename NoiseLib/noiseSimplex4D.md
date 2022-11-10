@@ -21,8 +21,8 @@ None
 
 ### Examples
 
-![10 seconds of 1D simplex noise](F:\Documents\development-libraries\NoiseLib\1D.png)
+![10 seconds of 1D simplex noise](1D.png)
 
-![1000 seconds of simplex noise](F:\Documents\development-libraries\NoiseLib\1D_1000.png)
+![1000 seconds of simplex noise](1D_1000.png)
 
-![1000 seconds of simplex noise (x=e^mTime/100)](F:\Documents\development-libraries\NoiseLib\1D_ex.png)
+![1000 seconds of simplex noise (x=e^mTime/100)](1D_ex.png)
